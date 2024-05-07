@@ -1,0 +1,43 @@
+body{
+
+    background-color: skyblue;
+    color: aqua;
+    
+}
+header{
+    background-color:lightcoral ;
+    color:beige;
+    margin-top: -1.06vw;
+    padding-top: 5vw;
+    margin-right: -3vw;
+   margin-left: -3vw;
+    padding-bottom: 5vw;
+    text-align: center;
+}
+.container > div { 
+    box-sizing: border-box; 
+   
+    display: inline-block; 
+    padding: 15px; 
+    width: 33%; 
+  } 
+.bozo1 { 
+    width:100px;
+    position: relative; 
+    bottom: 215px; /* Adjust the value as needed */ 
+} 
+BUTTON{
+
+    text-align:LEFT;
+}
+main{
+    text-align: CENTER;
+}
+
+image{
+
+        size:20px;
+}
+p{
+    font-size: 25px;
+}
